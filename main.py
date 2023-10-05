@@ -5,5 +5,3 @@ print(f"BIENVENIDO A MI PROGRAMA {NOMBRE: }")
 
 # ADICIONALES
 
-
-

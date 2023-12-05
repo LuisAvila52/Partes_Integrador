@@ -8,3 +8,5 @@
 # LUIS AVILA
 
 # En este segundo proyecto integrador se iniciara dando un 
+# Agregaciones
+se completa el proyecto integrador parte tres en la cual se inicia un ejercicio donde el contador aumente con solo presionar la tecla n y no al presionar ninguna otra tecla.

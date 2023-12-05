@@ -9,7 +9,7 @@ def clear_terminal(number):
     else:
                print(f'Número actual: {number}')
         
-number = 0
+number = -5
 while number <= 50:
        
      
